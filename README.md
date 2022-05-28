@@ -2,8 +2,7 @@
 <head>
 <title>TheCatIsBarking with excitement</title>
 </head>
-<p style="font-family:'Comic Sans MS', sans-serif">
+<p3 style="font-family:'Comic Sans MS', sans-serif">
   Сметане привет, всем остальным соболезную!
-</p>
-</body>
+</p3>
 </html>
