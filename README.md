@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>TheCatIsBarking.github.io</title>
+	<title>TheCatIsBarking with excitement</title>
 </head>
 <body>
 	<h1>Сметане привет, остальным соболезную!</h1>
