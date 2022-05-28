@@ -1,11 +1,9 @@
-<!DOCTYPE html>
 <html>
 <head>
-<title>
-TheCatIsBarking with excitement
-</title>
+<title>TheCatIsBarking with excitement</title>
 </head>
-<body>
-<h1>Сметане привет, остальным соболезную!</h1>
+<p style="font-family:'Comic Sans MS', sans-serif">
+  Сметане привет, всем остальным соболезную!
+</p>
 </body>
 </html>
